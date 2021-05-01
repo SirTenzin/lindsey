@@ -1,4 +1,4 @@
-# lindsey
+# Lindsey
 
 #### Lindsey is in a public alpha!
 
